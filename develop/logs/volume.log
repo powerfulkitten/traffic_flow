@@ -1,0 +1,1924 @@
+[2023-03-13 11:53:27,869] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-13 11:53:29,023] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:53:29,030] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:53:29,043] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:53:29,052] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:53:29,189] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-13 11:53:29,193] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-13 11:53:29,194] INFO in base: Scheduler started
+[2023-03-13 11:54:07,163] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-13 11:54:08,291] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:54:08,296] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:54:08,302] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:54:08,306] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:54:08,444] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-13 11:54:08,448] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-13 11:54:08,449] INFO in base: Scheduler started
+[2023-03-13 11:56:19,486] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-13 11:56:20,756] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-13 11:56:20,762] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-13 11:56:20,764] INFO in base: Scheduler started
+[2023-03-13 11:56:48,589] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-13 11:56:49,696] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:56:49,701] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:56:49,710] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:56:49,714] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:56:49,860] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-13 11:56:49,864] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-13 11:56:49,865] INFO in base: Scheduler started
+[2023-03-13 11:57:08,767] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-13 11:57:09,854] ERROR in volume_of_traffic: INIT > Unauthorized
+[2023-03-13 11:57:09,859] ERROR in volume_of_traffic: Tomorrow > Unauthorized
+[2023-03-13 11:57:10,006] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-13 11:57:10,010] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-13 11:57:10,011] INFO in base: Scheduler started
+[2023-03-14 11:21:14,148] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-14 11:21:15,732] ERROR in volume_of_traffic: Tomorrow > Backup fail > Local DB disconnent
+[2023-03-14 11:21:16,234] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-14 11:21:17,238] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 11:21:17,749] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 11:21:18,259] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:19,281] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:19,284] ERROR in volume_of_traffic: INIT > Server DB disconnect
+[2023-03-14 11:21:19,766] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-14 11:21:20,784] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 11:21:21,299] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 11:21:21,809] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:22,838] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:22,839] ERROR in volume_of_traffic: INIT > Server DB disconnect
+[2023-03-14 11:21:23,351] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-14 11:21:24,377] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 11:21:24,886] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 11:21:24,902] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:25,918] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:25,919] ERROR in volume_of_traffic: Tomorrow > Server DB disconnect
+[2023-03-14 11:21:26,429] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-14 11:21:27,444] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 11:21:27,461] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 11:21:27,974] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:28,984] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:21:28,988] ERROR in volume_of_traffic: Tomorrow > Server DB disconnect
+[2023-03-14 11:21:29,173] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-14 11:21:29,177] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-14 11:21:29,177] INFO in base: Scheduler started
+[2023-03-14 11:39:46,556] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 11:39:47,078] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 11:39:47,594] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 11:39:48,624] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 12:00:00,032] INFO in base: Running job "add_tomorrow_document (trigger: cron[hour='12', minute='0'], next run at: 2023-03-15 12:00:00 CST)" (scheduled at 2023-03-14 12:00:00+08:00)
+[2023-03-14 12:00:00,536] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-14 12:00:01,565] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 12:00:02,082] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 12:00:02,596] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 12:00:03,563] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 12:00:03,566] ERROR in volume_of_traffic: Tomorrow > Server DB disconnect
+[2023-03-14 12:00:04,071] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-14 12:00:05,082] WARNING in volume_of_traffic: Server Check > Retry connect server db > 1
+[2023-03-14 12:00:05,597] WARNING in volume_of_traffic: Server Check > Retry connect server db > 2
+[2023-03-14 12:00:06,101] WARNING in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 12:00:07,127] ERROR in volume_of_traffic: Server Check > Retry connect server db > 3
+[2023-03-14 12:00:07,128] ERROR in volume_of_traffic: Tomorrow > Server DB disconnect
+[2023-03-14 12:00:07,130] INFO in base: Job "add_tomorrow_document (trigger: cron[hour='12', minute='0'], next run at: 2023-03-15 12:00:00 CST)" executed successfully
+[2023-03-16 16:55:18,579] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-16 16:55:44,584] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-16 16:56:17,764] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-16 16:56:50,325] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-16 17:33:31,910] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-16 17:33:32,972] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-16 17:34:08,125] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-16 17:34:09,191] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 15:56:32,703] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 15:56:33,814] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 15:56:34,328] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 15:56:34,950] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 15:56:35,480] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 15:56:36,015] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 15:56:36,195] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,196] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,197] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,198] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,199] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,200] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,201] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,202] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,203] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,204] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,205] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,206] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,207] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,210] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,212] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,212] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,213] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,215] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,216] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,217] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,217] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,219] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,221] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,222] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,223] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:56:36,228] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 15:56:36,229] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,230] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,231] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,232] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,233] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,234] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,236] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,237] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,238] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,240] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,241] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,243] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,245] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,246] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,247] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,248] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,249] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,250] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,251] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,252] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,253] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,254] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,255] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,256] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:56:36,257] INFO in base: Scheduler started
+[2023-03-17 15:57:05,330] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-17 15:57:05,849] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-17 15:59:42,918] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 15:59:43,990] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 15:59:44,504] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 15:59:45,050] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 15:59:45,566] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 15:59:46,093] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 15:59:46,231] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,232] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,234] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,235] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,239] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,241] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,243] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,244] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,247] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,248] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,249] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,251] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,252] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,254] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,255] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,259] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,260] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,263] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,265] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,266] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,267] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,269] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,269] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,271] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,272] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 15:59:46,275] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 15:59:46,276] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,277] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,280] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,281] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,282] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,283] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,284] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,285] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,286] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,288] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,289] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,290] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,292] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,294] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,296] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,298] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,299] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,300] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,301] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,302] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,302] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,303] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,304] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,305] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 15:59:46,306] INFO in base: Scheduler started
+[2023-03-17 16:00:00,009] INFO in base: Running job "nx_overlay (trigger: cron[hour='16'], next run at: 2023-03-18 16:00:00 CST)" (scheduled at 2023-03-17 16:00:00+08:00)
+[2023-03-17 16:01:53,752] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:01:54,796] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:01:55,310] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:01:55,845] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:01:56,357] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:01:56,862] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:01:57,017] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,026] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,033] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,039] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,041] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,042] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,044] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,045] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,047] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,048] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,049] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,051] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,052] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,053] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,055] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,056] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,057] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,059] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,059] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,061] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,062] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,063] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,064] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,065] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,066] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:01:57,070] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:01:57,073] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,074] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,075] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,076] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,078] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,079] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,080] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,081] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,082] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,083] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,085] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,086] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,088] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,090] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,091] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,092] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,093] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,094] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,095] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,096] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,098] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,099] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,100] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,102] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:01:57,103] INFO in base: Scheduler started
+[2023-03-17 16:04:13,540] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:04:14,600] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:04:15,117] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:04:15,659] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:04:16,174] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:04:16,689] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:04:16,840] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,842] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,844] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,845] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,848] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,850] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,852] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,853] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,854] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,856] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,857] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,859] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,860] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,861] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,863] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,864] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,866] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,867] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,868] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,870] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,871] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,872] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,874] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,875] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,877] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:04:16,880] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:04:16,881] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,883] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,884] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,885] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,887] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,888] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,890] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,891] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,894] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,898] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,900] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,902] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,904] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,907] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,908] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,911] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,914] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,916] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,918] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,921] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,926] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,927] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,928] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,931] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:04:16,932] INFO in base: Scheduler started
+[2023-03-17 16:07:18,698] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:07:19,761] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:07:20,272] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:07:20,811] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:07:21,322] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:07:21,836] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:07:21,988] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:21,990] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:21,994] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:21,995] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:21,997] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:21,998] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,002] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,004] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,005] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,007] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,010] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,012] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,015] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,016] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,020] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,020] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,023] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,023] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,024] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,025] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,026] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,027] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,029] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,030] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,031] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:07:22,036] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:07:22,037] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,039] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,041] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,043] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,045] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,046] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,048] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,049] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,051] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,053] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,055] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,056] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,057] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,058] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,059] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,060] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,061] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,062] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,064] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,064] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,065] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,066] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,067] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,069] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:07:22,071] INFO in base: Scheduler started
+[2023-03-17 16:10:07,715] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:10:08,770] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:10:09,281] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:10:09,809] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:10:10,321] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:10:10,835] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:10:11,014] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,017] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,019] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,021] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,023] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,025] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,027] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,030] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,035] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,045] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,046] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,047] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,049] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,049] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,051] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,052] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,056] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,058] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,061] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,062] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,065] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,066] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,068] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,075] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,077] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:10:11,080] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:10:11,082] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,086] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,091] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,093] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,095] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,098] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,099] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,100] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,101] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,102] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,103] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,105] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,106] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,107] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,108] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,109] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,110] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,111] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,114] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,116] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,117] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,119] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,123] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,124] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:10:11,125] INFO in base: Scheduler started
+[2023-03-17 16:13:45,900] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:13:46,958] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:13:47,464] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:13:47,992] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:13:48,502] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:13:49,016] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:13:49,167] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,169] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,170] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,172] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,173] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,175] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,177] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,178] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,180] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,181] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,183] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,185] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,186] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,187] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,188] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,190] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,192] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,193] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,194] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,197] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,198] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,200] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,202] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,204] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,205] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:13:49,210] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:13:49,211] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,212] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,213] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,214] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,216] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,217] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,218] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,220] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,220] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,222] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,224] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,228] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,233] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,234] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,236] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,237] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,242] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,243] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,245] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,247] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,248] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,250] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,251] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,252] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:13:49,253] INFO in base: Scheduler started
+[2023-03-17 16:14:27,403] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:14:28,468] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:14:28,984] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:14:29,526] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:14:30,039] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:14:30,546] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:14:30,832] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,833] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,835] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,836] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,836] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,838] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,840] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,841] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,843] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,846] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,849] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,850] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,852] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,854] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,862] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,864] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,865] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,866] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,868] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,870] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,875] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,882] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,883] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,884] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,885] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:14:30,890] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:14:30,892] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,894] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,895] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,896] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,900] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,903] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,906] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,908] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,910] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,912] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,914] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,916] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,918] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,919] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,922] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,923] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,926] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,931] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,933] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,934] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,935] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,935] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,936] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,938] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:14:30,939] INFO in base: Scheduler started
+[2023-03-17 16:19:42,769] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:19:43,812] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:19:44,315] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:19:44,858] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:19:45,370] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:19:45,880] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:19:46,072] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,074] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,075] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,077] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,078] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,081] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,082] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,086] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,087] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,092] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,094] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,097] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,099] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,100] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,102] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,105] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,106] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,108] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,110] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,113] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,114] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,114] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,115] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,116] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,117] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:19:46,120] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:19:46,122] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,126] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,127] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,128] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,129] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,131] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,132] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,133] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,134] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,135] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,136] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,137] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,141] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,144] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,145] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,147] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,149] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,150] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,152] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,154] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,155] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,158] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,160] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,161] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:19:46,162] INFO in base: Scheduler started
+[2023-03-17 16:20:52,491] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:20:53,570] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:20:54,080] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:20:54,622] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:20:55,133] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:20:55,643] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:20:55,799] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,801] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,803] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,804] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,806] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,808] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,810] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,812] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,813] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,815] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,816] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,817] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,820] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,822] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,824] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,829] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,833] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,835] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,838] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,839] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,843] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,845] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,846] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,847] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,849] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:20:55,853] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:20:55,854] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,855] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,856] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,858] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,859] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,862] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,863] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,865] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,867] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,868] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,870] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,871] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,872] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,873] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,875] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,876] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,877] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,878] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,879] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,880] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,881] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,882] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,883] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,884] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:20:55,884] INFO in base: Scheduler started
+[2023-03-17 16:31:58,760] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:31:59,818] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:32:00,330] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:32:00,855] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:32:01,370] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:32:01,880] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:32:02,029] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,031] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,033] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,035] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,037] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,040] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,044] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,046] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,048] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,050] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,051] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,052] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,054] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,055] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,057] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,060] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,061] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,063] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,064] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,066] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,067] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,069] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,070] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,071] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,072] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:02,078] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:32:02,080] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,081] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,082] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,083] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,084] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,085] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,086] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,087] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,089] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,090] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,092] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,094] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,095] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,096] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,098] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,100] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,101] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,102] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,106] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,108] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,109] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,111] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,111] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,112] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:02,113] INFO in base: Scheduler started
+[2023-03-17 16:32:48,748] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:32:49,797] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:32:50,313] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:32:50,870] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:32:51,379] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:32:51,892] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:32:52,040] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,041] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,043] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,045] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,047] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,048] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,050] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,052] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,053] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,054] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,055] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,057] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,058] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,059] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,060] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,062] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,063] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,065] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,065] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,067] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,068] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,070] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,071] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,073] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,075] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:32:52,081] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:32:52,083] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,085] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,086] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,088] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,090] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,092] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,094] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,095] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,097] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,098] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,100] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,101] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,102] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,104] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,106] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,108] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,110] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,112] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,113] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,113] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,114] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,115] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,116] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,117] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:32:52,117] INFO in base: Scheduler started
+[2023-03-17 16:34:56,896] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-17 16:34:57,966] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-17 16:34:58,481] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:34:59,017] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-17 16:34:59,530] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:35:00,037] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-17 16:35:00,191] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,193] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,195] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,197] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,199] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,202] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,204] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,205] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,206] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,208] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,209] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,210] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,211] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,213] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,214] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,216] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,218] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,221] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,222] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,223] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,225] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,226] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,228] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,231] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,233] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-17 16:35:00,237] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-17 16:35:00,239] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,240] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,241] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,242] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,243] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,244] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,245] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,246] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,247] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,249] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,251] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,252] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,254] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,255] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,256] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,257] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,258] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,259] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,260] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,261] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,262] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,263] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,265] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,267] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-17 16:35:00,268] INFO in base: Scheduler started
+[2023-03-20 11:00:27,829] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:00:28,983] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:00:29,497] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:00:30,054] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:00:30,565] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:00:31,076] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:00:31,252] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,254] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,255] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,257] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,260] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,262] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,264] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,266] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,267] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,268] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,269] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,271] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,272] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,276] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,278] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,280] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,281] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,286] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,287] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,289] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,290] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,294] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,295] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,296] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,299] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:00:31,304] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:00:31,304] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,305] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,309] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,317] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,319] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,320] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,322] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,323] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,327] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,328] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,331] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,332] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,333] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,334] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,335] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,336] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,338] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,340] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,342] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,343] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,344] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,346] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,347] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,348] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:00:31,348] INFO in base: Scheduler started
+[2023-03-20 11:02:26,187] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:02:27,238] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:02:27,750] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:02:28,288] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:02:28,796] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:02:29,302] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:02:29,476] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,478] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,479] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,480] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,481] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,482] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,486] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,491] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,493] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,495] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,497] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,498] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,499] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,503] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,507] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,509] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,511] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,512] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,514] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,515] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,526] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,527] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,530] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,532] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,536] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:02:29,544] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:02:29,545] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,546] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,547] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,548] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,549] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,550] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,552] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,555] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,556] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,557] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,558] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,560] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,561] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,562] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,564] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,565] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,566] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,566] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,569] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,570] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,572] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,574] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,575] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,576] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:02:29,578] INFO in base: Scheduler started
+[2023-03-20 11:07:10,156] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:07:11,227] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:07:11,735] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:07:12,291] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:07:12,805] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:07:13,317] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:07:13,497] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,498] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,500] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,501] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,505] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,507] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,510] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,512] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,513] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,514] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,516] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,517] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,518] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,521] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,522] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,524] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,526] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,527] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,528] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,529] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,531] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,533] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,544] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,546] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,548] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:13,557] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:07:13,559] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,561] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,562] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,563] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,565] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,566] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,567] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,567] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,572] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,576] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,577] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,579] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,580] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,581] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,583] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,584] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,585] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,587] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,589] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,591] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,592] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,593] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,594] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,595] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:13,597] INFO in base: Scheduler started
+[2023-03-20 11:07:36,076] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:07:37,148] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:07:37,660] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:07:38,186] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:07:38,700] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:07:39,212] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:07:39,379] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,380] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,382] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,384] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,386] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,387] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,390] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,391] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,393] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,395] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,396] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,398] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,399] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,403] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,407] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,409] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,410] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,412] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,413] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,415] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,416] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,418] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,421] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,424] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,427] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:07:39,431] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:07:39,432] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,438] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,442] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,444] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,445] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,446] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,447] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,448] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,451] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,453] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,455] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,457] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,458] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,459] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,460] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,462] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,464] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,465] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,467] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,470] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,470] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,472] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,474] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,475] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:07:39,475] INFO in base: Scheduler started
+[2023-03-20 11:08:17,463] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:08:18,517] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:08:19,029] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:08:19,575] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:08:20,082] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:08:20,595] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:08:20,780] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,783] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,789] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,790] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,792] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,793] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,794] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,796] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,797] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,800] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,802] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,804] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,806] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,809] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,811] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,813] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,817] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,823] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,825] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,826] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,827] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,829] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,830] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,835] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,836] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:08:20,840] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:08:20,841] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,842] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,844] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,845] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,846] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,847] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,853] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,855] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,856] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,857] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,858] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,859] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,860] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,862] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,863] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,864] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,865] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,866] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,868] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,869] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,870] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,871] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,872] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,873] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:08:20,874] INFO in base: Scheduler started
+[2023-03-20 11:10:23,226] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:10:24,274] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:10:24,788] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:10:25,342] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:10:25,854] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:10:26,362] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:10:26,545] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,547] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,549] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,550] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,551] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,553] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,554] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,555] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,557] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,558] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,559] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,562] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,566] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,568] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,570] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,572] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,573] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,575] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,579] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,583] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,584] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,586] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,588] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,589] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,590] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:10:26,601] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:10:26,602] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,604] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,606] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,614] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,616] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,617] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,619] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,620] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,621] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,622] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,623] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,626] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,626] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,628] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,629] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,630] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,631] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,631] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,633] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,634] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,635] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,636] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,637] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,646] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:10:26,650] INFO in base: Scheduler started
+[2023-03-20 11:11:24,522] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:11:25,585] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:11:26,089] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:11:26,614] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:11:27,120] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:11:27,660] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:11:27,839] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,839] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,842] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,844] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,846] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,848] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,850] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,851] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,853] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,854] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,855] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,857] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,859] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,862] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,863] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,864] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,865] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,867] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,869] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,870] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,872] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,874] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,882] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,884] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,887] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:11:27,896] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:11:27,898] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,899] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,900] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,901] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,902] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,903] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,905] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,906] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,909] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,911] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,912] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,914] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,916] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,918] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,919] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,921] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,924] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,927] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,928] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,930] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,932] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,933] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,934] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,935] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:11:27,935] INFO in base: Scheduler started
+[2023-03-20 11:14:42,799] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:14:43,861] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:14:44,376] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:14:44,918] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:14:45,431] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:14:45,943] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:14:46,152] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,153] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,156] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,157] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,160] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,162] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,168] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,171] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,172] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,173] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,177] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,179] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,181] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,182] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,184] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,186] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,187] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,190] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,195] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,199] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,202] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,203] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,206] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,207] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,209] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:14:46,216] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:14:46,218] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,219] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,221] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,222] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,223] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,225] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,228] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,230] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,231] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,233] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,235] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,236] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,237] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,238] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,241] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,242] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,245] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,250] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,253] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,254] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,256] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,257] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,258] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,259] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:14:46,262] INFO in base: Scheduler started
+[2023-03-20 11:20:03,755] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:20:04,821] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:20:05,324] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:20:05,866] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:20:06,372] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:20:06,883] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:20:07,094] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,095] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,097] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,101] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,102] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,104] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,107] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,110] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,111] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,116] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,118] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,120] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,121] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,122] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,123] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,125] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,135] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,136] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,138] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,139] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,140] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,142] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,144] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,148] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,150] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:20:07,154] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:20:07,155] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,156] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,157] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,163] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,164] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,167] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,169] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,170] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,172] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,173] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,174] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,175] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,177] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,180] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,181] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,183] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,184] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,186] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,188] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,189] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,191] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,195] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,201] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,202] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:20:07,203] INFO in base: Scheduler started
+[2023-03-20 11:20:09,229] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:09,706] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:10,060] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:10,236] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:17,418] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:20:17,448] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:20:17,957] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:17,973] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:18,759] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:19,285] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:19,763] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:20,273] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:21,749] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:22,262] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:23,267] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:20:23,791] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:14,169] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:21:15,229] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:21:15,737] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:21:16,275] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:21:16,787] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:21:17,298] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:21:17,479] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,482] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,484] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,486] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,487] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,491] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,493] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,494] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,496] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,497] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,499] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,501] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,503] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,504] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,506] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,508] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,511] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,514] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,515] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,518] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,518] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,520] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,522] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,524] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,527] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:21:17,534] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:21:17,536] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,537] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,539] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,544] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,546] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,547] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,548] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,549] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,550] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,551] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,552] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,553] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,554] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,556] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,558] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,559] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,560] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,562] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,563] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,567] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,567] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,568] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,569] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,571] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:21:17,574] INFO in base: Scheduler started
+[2023-03-20 11:21:19,185] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:19,277] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:19,449] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:19,710] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:19,790] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:19,975] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:20,820] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:21,330] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:22,161] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:22,672] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:25,204] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:25,260] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:21:35,342] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:21:35,853] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:21:59,480] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:21:59,999] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:13,827] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:22:14,899] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:22:15,407] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:22:15,935] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:22:16,444] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:22:16,954] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:22:17,250] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,252] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,281] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,290] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,297] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,313] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,315] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,316] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,323] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,327] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,328] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,329] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,331] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,332] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,333] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,335] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,336] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,338] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,342] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,344] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,346] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,346] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,347] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,349] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,350] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:22:17,358] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:22:17,358] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,359] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,360] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,362] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,364] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,365] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,366] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,367] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,377] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,379] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,380] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,382] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,383] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,385] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,387] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,390] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,393] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,397] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,400] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,404] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,411] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,413] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,415] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,420] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:22:17,428] INFO in base: Scheduler started
+[2023-03-20 11:22:18,233] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:18,758] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:19,238] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:19,762] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:20,259] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:20,783] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:20,937] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:21,450] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:22,052] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:22,313] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:22,578] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:22,825] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:24,359] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:24,868] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:24,923] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:22:25,435] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:26,904] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:22:27,458] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:23:56,604] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:23:57,661] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:23:58,164] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:23:58,703] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:23:59,218] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:23:59,726] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:23:59,892] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,894] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,897] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,901] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,902] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,904] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,905] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,907] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,909] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,911] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,913] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,914] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,916] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,918] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,919] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,920] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,922] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,924] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,927] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,929] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,933] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,935] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,936] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,937] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,939] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:23:59,942] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:23:59,943] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,944] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,947] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,950] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,955] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,958] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,960] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,961] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,965] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,968] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,969] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,972] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,974] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,975] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,976] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,977] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,981] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,983] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,984] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,986] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,988] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,989] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,989] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,990] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:23:59,991] INFO in base: Scheduler started
+[2023-03-20 11:24:10,637] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:24:11,156] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:24:23,619] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:24:24,140] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:24:33,624] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:24:34,153] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:24:52,672] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:24:53,188] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:49,802] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 11:33:50,879] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 11:33:51,384] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:33:51,939] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 11:33:52,463] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:33:52,972] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 11:33:53,184] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,185] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,189] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,190] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,191] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,192] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,193] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,194] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,198] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,201] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,202] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,203] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,204] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,205] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,207] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,208] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,209] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,210] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,213] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,219] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,222] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,224] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,227] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,234] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,237] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 11:33:53,242] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 11:33:53,249] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,251] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,256] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,260] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,271] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,273] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,273] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,276] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,281] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,283] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,284] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,285] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,287] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,287] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,289] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,290] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,291] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,292] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,293] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,294] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,296] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,301] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,302] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,303] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 11:33:53,304] INFO in base: Scheduler started
+[2023-03-20 11:33:55,383] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:55,961] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:58,205] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:58,731] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:59,150] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:59,150] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:59,677] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:33:59,692] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:34:02,744] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 11:34:03,259] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:34:07,350] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 11:34:07,873] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:12,565] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 12:20:13,616] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 12:20:14,126] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 12:20:14,681] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 12:20:15,194] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 12:20:22,288] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 12:20:23,396] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 12:20:23,900] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 12:20:24,443] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 12:20:24,954] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 12:20:25,462] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 12:20:25,631] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,633] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,634] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,638] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,640] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,642] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,644] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,645] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,646] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,646] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,648] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,649] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,650] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,652] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,653] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,655] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,657] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,658] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,659] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,661] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,662] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,665] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,666] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,667] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,669] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 12:20:25,675] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 12:20:25,676] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,677] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,679] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,681] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,686] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,689] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,691] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,692] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,693] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,694] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,695] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,698] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,700] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,701] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,702] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,711] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,713] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,715] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,715] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,716] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,717] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,718] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,719] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,721] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 12:20:25,723] INFO in base: Scheduler started
+[2023-03-20 12:20:26,844] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:26,864] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:27,380] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:27,876] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:27,885] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:27,901] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:27,992] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:28,007] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:28,394] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:28,518] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:28,903] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:29,087] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:33,111] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:33,127] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:33,422] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 12:20:33,938] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:35,787] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:35,800] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:36,312] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:36,824] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:41,807] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:41,817] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:42,323] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:42,732] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:20:42,743] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:20:42,834] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:43,248] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 12:20:43,415] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 12:21:02,801] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 12:21:02,816] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 12:21:02,840] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 12:21:03,356] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 14:25:41,468] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 14:25:42,559] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 14:25:43,069] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 14:25:43,595] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 14:25:44,104] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 14:25:44,614] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 14:25:44,794] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,796] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,798] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,799] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,801] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,802] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,803] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,804] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,805] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,806] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,807] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,810] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,815] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,819] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,820] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,821] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,823] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,824] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,826] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,827] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,828] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,831] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,833] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,834] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,837] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:25:44,844] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 14:25:44,848] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,850] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,851] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,852] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,855] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,856] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,858] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,861] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,867] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,870] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,873] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,874] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,875] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,878] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,880] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,883] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,884] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,885] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,885] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,886] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,887] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,888] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,890] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,891] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:25:44,892] INFO in base: Scheduler started
+[2023-03-20 14:25:52,344] ERROR in volume_of_traffic: Not found key ''bookmark''
+[2023-03-20 14:26:56,998] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 14:26:58,049] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 14:26:58,562] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 14:26:59,109] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 14:26:59,619] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 14:27:00,131] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 14:27:00,290] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,293] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,297] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,299] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,300] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,309] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,312] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,313] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,315] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,317] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,319] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,320] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,322] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,323] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,325] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,326] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,327] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,328] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,330] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,333] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,334] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,335] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,337] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,345] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,347] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:27:00,349] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 14:27:00,350] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,351] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,352] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,354] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,354] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,357] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,358] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,359] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,360] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,361] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,363] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,365] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,367] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,368] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,369] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,370] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,373] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,375] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,376] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,377] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,378] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,379] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,380] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,381] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:27:00,382] INFO in base: Scheduler started
+[2023-03-20 14:27:37,694] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 14:27:37,696] ERROR in volume_of_traffic: Not found key ''camera_name''
+[2023-03-20 14:27:40,685] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 14:27:40,687] ERROR in volume_of_traffic: Not found key ''camera_name''
+[2023-03-20 14:27:51,689] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 14:27:51,691] ERROR in volume_of_traffic: Not found key ''camera_name''
+[2023-03-20 14:29:40,724] INFO in volume_of_traffic: Wait MongoDB Building
+[2023-03-20 14:29:41,786] ERROR in volume_of_traffic: Tomorrow > AuthenticationFailed
+[2023-03-20 14:29:42,293] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 14:29:42,836] ERROR in volume_of_traffic: INIT > Local DB disconnect
+[2023-03-20 14:29:43,343] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 14:29:43,852] ERROR in volume_of_traffic: Tomorrow > Local DB disconnect
+[2023-03-20 14:29:44,012] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,014] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,016] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,018] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,019] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,021] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,023] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,024] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,025] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,026] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,028] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,028] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,030] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,032] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,039] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,041] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,042] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,044] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,046] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,047] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,049] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,050] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,051] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,053] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,055] INFO in base: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-03-20 14:29:44,058] INFO in base: Added job "add_tomorrow_document" to job store "default"
+[2023-03-20 14:29:44,060] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,062] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,065] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,066] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,067] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,069] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,070] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,071] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,073] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,074] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,076] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,077] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,082] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,086] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,087] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,089] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,090] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,091] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,092] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,093] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,094] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,095] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,096] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,098] INFO in base: Added job "nx_overlay" to job store "default"
+[2023-03-20 14:29:44,099] INFO in base: Scheduler started
+[2023-03-20 14:31:27,929] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 14:31:27,942] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 14:31:27,954] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 14:31:28,468] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect
+[2023-03-20 14:41:08,573] INFO in volume_of_traffic: Bookmarks > {"error":"0","errorString":""}
+[2023-03-20 14:41:08,584] INFO in volume_of_traffic: Overlay > {"error":"0","errorString":"","reply":null}
+[2023-03-20 14:41:08,597] ERROR in volume_of_traffic: Receive AIsense > AuthenticationFailed
+[2023-03-20 14:41:09,119] ERROR in volume_of_traffic: Receive AIsense > Local DB disconnect

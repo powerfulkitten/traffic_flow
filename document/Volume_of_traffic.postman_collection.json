@@ -1,0 +1,391 @@
+{
+	"info": {
+		"_postman_id": "fbb23170-45b7-4e99-ae89-e5b413a6f2aa",
+		"name": "Volume_of_traffic",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23417704"
+	},
+	"item": [
+		{
+			"name": "Simulation_AISense",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"license_plate\":\"ABC-123\",\r\n    \"timestamp\":1678260344185,\r\n    \"channel_uuid\":\"CH-1\",\r\n    \"camera_id\" : \"e3e9a385-7fe0-3ba5-5482-a86cde7faf48\",\r\n    \"camera_name\" : \"TestCameraLive-enter\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/receive_aisense",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"receive_aisense"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Backup",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"license_plate\":\"ABC-123\",\r\n    \"timestamp\":1676947002242,\r\n    \"channel_uuid\":\"CH-1\",\r\n    \"camera_id\" : \"e3e9a385-7fe0-3ba5-5482-a86cde7faf48\",\r\n    \"camera_name\" : \"TestCameraLive-enter\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/backup",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"backup"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Range_Backup",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"start_time\":\"2023/3/2 10:00\",\r\n    \"end_time\":\"2023/3/10 04:00\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/range_backup",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"range_backup"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Total_volume_of_traffic",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"date\":\"2023/3/9\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/total",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"total"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get_Global_Value",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"date\":\"2023/3/3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/args",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"args"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Check_ServerDB_Connect",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"date\":\"2023/3/3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/serverdb_check",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"serverdb_check"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Check_LocalDB_Connect",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "zack",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "zack",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"date\":\"2023/3/3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.2.60:4444/localdb_check",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"2",
+						"60"
+					],
+					"port": "4444",
+					"path": [
+						"localdb_check"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

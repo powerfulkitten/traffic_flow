@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  local_mongodb:
+    container_name: volume_db
+    image: mongo:4.4.10
+    command: [--auth]
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=touchcloud
+      - MONGO_INITDB_ROOT_PASSWORD=touchcloud
+      - "TZ=Asia/Taipei"
+    ports:
+      - 22222:27017
+    restart: always
+
+  volume:
+    container_name: volume
+    image: touchcloud/volume-of-traffic:1.0
+    environment:
+      - "TZ=Asia/Taipei"
+    volumes:
+      - /var/lib/touchcloud/volume/config.json:/app/config.json
+    ports:
+      - 4444:4444
+    restart: always
+    command: ["python3", "volume_of_traffic.py"]

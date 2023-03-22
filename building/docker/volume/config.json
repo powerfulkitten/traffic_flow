@@ -1,0 +1,39 @@
+{	
+	"mac":"mac_address",
+	"mongo_db" : {
+		"server_db_ip" : "localhost",
+		"server_db_port" : 11111,
+		"server_db_username" : "touchcloud",
+		"server_db_password" : "touchcloud",
+		"local_db_ip" : "localhost",
+		"local_db_port" : 22222,
+		"local_db_username" : "touchcloud",
+		"local_db_password" : "touchcloud"
+	},
+	"fastapi" : {
+		"volume_of_traffic_fastapi_host" : "192.168.2.60",
+		"volume_of_traffic_fastapi_port" : 9999
+	},
+	"group" : {
+		"清水服務區入口左側攝影機" : {
+				"channel_uuid" : "CH-1",
+				"camera_id" : "3947a8fd-6d82-1814-d33b-6804df42eb2a",
+				"camera_name" : "TestCameraLive_Enter",
+				"nx_server_host": "192.168.2.22",
+				"nx_server_username":"admin",
+				"nx_server_password":"admin123",
+				"bookmark":"True",
+				"overlay":"True"
+			},
+		"清水服務區入口右側攝影機" : {
+				"channel_uuid" : "CH-2",
+				"camera_id" : "e3e9a385-7fe0d-3ba5-5482-a86cde7faf48",
+				"camera_name" : "TestCameraLive_Enter2",
+				"nx_server_host": "192.168.100.5",
+				"nx_server_username":"admin",
+				"nx_server_password":"admin123",
+				"bookmark":"True",
+				"overlay":"True"
+			}
+	}
+}
